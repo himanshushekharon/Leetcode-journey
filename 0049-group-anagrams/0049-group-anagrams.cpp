@@ -11,8 +11,6 @@ public:
         for(auto [a,b]:mp){
             result.push_back(b);
         }
-
         return result;
-        
     }
 };
