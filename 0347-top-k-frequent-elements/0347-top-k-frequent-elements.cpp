@@ -5,18 +5,18 @@ public:
         for(int i:nums){
             mp[i]++;
         }
-       vector<int>vt;
+       vector<int>unique;
        for(auto [a,b]:mp){
-        vt.push_back(a);
+        unique.push_back(a);
        }
-       sort(vt.begin(),vt.end(),[&](int a,int b){
+       sort(unique.begin(),unique.end(),[&](int a,int b){
         if(mp[a]==mp[b]){
             return a<b;
         }
         return mp[a]>mp[b];
        });
         vector<int>v;
-        for(int i:vt){
+        for(int i:unique){
             v.push_back(i);
             k--;
             if(k==0){
