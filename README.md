@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1539-kth-missing-positive-number](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
