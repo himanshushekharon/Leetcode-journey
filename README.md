@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [2540-minimum-common-value](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
