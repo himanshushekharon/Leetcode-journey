@@ -1,6 +1,7 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
+        if(s.size()==1) return 1;
         unordered_map<char,int>mp;
         for(char c:s){
             mp[c]++;
