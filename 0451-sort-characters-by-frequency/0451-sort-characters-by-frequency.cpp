@@ -13,9 +13,7 @@ public:
 
         string result="";
         for(auto [a,b]:sv){
-            for(int i=0;i<b;i++){
-                result+=a;
-            }
+            result+=string(b,a);
         }
         return result;
     }
