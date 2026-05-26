@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -102,15 +105,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
