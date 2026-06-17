@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3838-weighted-word-mapping](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
