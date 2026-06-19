@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1903-largest-odd-number-in-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Monotonic Stack
 |  |
