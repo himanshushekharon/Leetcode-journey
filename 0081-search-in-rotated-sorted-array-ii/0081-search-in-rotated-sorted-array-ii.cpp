@@ -5,22 +5,22 @@ public:
         int l=0,h=n-1;
         while(l<=h){
             int m=l+(h-l)/2;
-            if(nums[m]==k){
-                return true;
-            }
-            if(nums[l]==nums[m] && nums[h]==nums[m]) {
+            
+            if(nums[m]==k) return true;
+
+            if(nums[l]==nums[m] && nums[l]==nums[h]){
                 l++;
                 h--;
-            }else if(nums[l]<=nums[m]) {
-                if(nums[l]<=k && k<nums[m]) {
+            }else if(nums[l]<=nums[m]){
+                if(k>=nums[l] && k<nums[m]){
                     h=m-1;
-                } else{
+                }else{
                     l=m+1;
                 }
-            }else {
-                if(nums[h]>=k && k>nums[m]) {
+            }else{
+                if(k<=nums[h] && k>nums[m]){
                     l=m+1;
-                } else{
+                }else{
                     h=m-1;
                 }
             }
