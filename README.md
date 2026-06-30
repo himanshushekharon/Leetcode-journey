@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
