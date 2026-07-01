@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
