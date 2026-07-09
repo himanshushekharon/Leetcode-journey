@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -137,17 +139,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 ## Segment Tree
 |  |
@@ -283,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Memoization
 |  |
@@ -292,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
