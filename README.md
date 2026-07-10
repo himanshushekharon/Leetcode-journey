@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Linked List
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 ## Queue
 |  |
 | ------- |
