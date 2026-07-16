@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 ## Math
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
 |  |
