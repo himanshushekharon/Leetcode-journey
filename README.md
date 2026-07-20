@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1260-shift-2d-grid](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 ## Queue
 |  |
